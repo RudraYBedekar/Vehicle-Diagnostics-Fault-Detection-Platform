@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.pytest_cache/
+# Database
+*.sqlite3
+*.db
+tesla.db
+
+# Logs
+*.log
+
+# Coverage
+.coverage
+htmlcov/
